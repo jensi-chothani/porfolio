@@ -550,6 +550,19 @@ a.contact-row:hover{
   justify-content:center;
 }
 
+.resume-note{
+  margin-top: 1.2rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--text-dim);
+}
+.resume-note code{
+  color: var(--py-yellow);
+  background: var(--bg-soft);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+}
+
 /* ============================================
    FOOTER
 ============================================ */
